@@ -11,3 +11,5 @@ The shaker uses a Raspberry Pi as the main controller for three components:
 Our current design uses a box that represents a microwave mechanism as the idea is to multitask when working on your meals. It also only uses two shakers (for salt and pepper), but for scalability one can add more shakers to the design. 
 
 Pictures of the design's front (front-end.jpg) and back (back-end.jpg) are included.
+
+We reached the final round (top 6 out of ~45-55 teams) with this hack.
